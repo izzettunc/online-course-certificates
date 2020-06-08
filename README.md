@@ -11,9 +11,9 @@
 | &emsp; ○ [Biomedical Image Analysis in Python][D13]             | 4f46f5985cbaaef309937438320cdc8ab1bcc64b |
 | &emsp; ○ [Image Processing with Keras in Python][D14]           | ae00c2709858f3e2ae671d3f75417d6c1e0f4277 |
   
-| Udemy                                                                |                 Credential               |
-| ---------------------------------------------------------------      | ---------------------------------------- |
-| ● Machine Learning A-Z™: Hands-On Python & R In Data Science         | NOT YET FINISHED                         |
+| Udemy                                                                |                  Credential               |
+| -------------------------------------------------------------------- | ----------------------------------------- |
+| ● [Machine Learning A-Z™: Hands-On Python & R In Data Science][U1]   |  UC-6533048c-0058-4afe-bc96-8af7bf065e8a  |
 
 
 [D01]: https://www.datacamp.com/statement-of-accomplishment/track/c7fe632e98df1294490ab82e2f89dc3a4844f98b
@@ -27,3 +27,5 @@
 [D12]: https://www.datacamp.com/statement-of-accomplishment/course/932c84c999d36bc6cd5389fa5fca2422b8abaf5f
 [D13]: https://www.datacamp.com/statement-of-accomplishment/course/4f46f5985cbaaef309937438320cdc8ab1bcc64b
 [D14]: https://www.datacamp.com/statement-of-accomplishment/course/ae00c2709858f3e2ae671d3f75417d6c1e0f4277
+
+[U1]: https://www.udemy.com/certificate/UC-6533048c-0058-4afe-bc96-8af7bf065e8a/
