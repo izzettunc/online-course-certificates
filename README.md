@@ -10,9 +10,9 @@
 | &emsp; ○ [Image Processing in Python][D12]                                                |              932c84c999d36bc6cd5389fa5fca2422b8abaf5f               |
 | &emsp; ○ [Biomedical Image Analysis in Python][D13]                                       |              4f46f5985cbaaef309937438320cdc8ab1bcc64b               |
 | &emsp; ○ [Image Processing with Keras in Python][D14]                                     |              ae00c2709858f3e2ae671d3f75417d6c1e0f4277               |
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Udemy    | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Credential |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Udemy    |                              <b>Credential                          |
 | ● [Machine Learning A-Z™: Hands-On Python & R In Data Science][U1]                        |               UC-6533048c-0058-4afe-bc96-8af7bf065e8a               |
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Coursera | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Credential |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Coursera |                              <b>Credential                          |
 | ● [Neural Networks and Deep Learning][C01]                                                |                               MC9N39YP2QJR                          |
 
 
